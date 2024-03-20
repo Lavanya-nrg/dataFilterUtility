@@ -60,8 +60,7 @@ dataFilterTool/
 |   |-- avg_sal_by_des.py
 |   |-- config.py
 |   |-- version.py
-|-- .github/
-|   |-- workflows/
+|
 |-- dataFilter_config/
 |-- |-- init.py
 |-- |-- config.ini
